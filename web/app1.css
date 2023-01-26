@@ -1,0 +1,19 @@
+h1 {
+    color:rgba(8, 42, 92, 0.877)
+}
+li {
+    color:rgba(11, 41, 53, 0.747)
+}
+h4 {
+    color:rgba(33, 146, 118, 0.733);
+    background: #95a5a6;
+}
+body {
+background: #95a5a6;
+}
+div {
+    background: #3498db;
+}
+p {
+    color: #ecf0f1,
+}

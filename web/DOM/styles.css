@@ -1,0 +1,42 @@
+h1 {
+  font-size: 6 rem;
+  font-weight: bold;
+}
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 2.5 rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2 rem;
+  font-family: "Montserrat-Light", sans-serif;
+}
+
+/*containers */
+.container-fluid {
+  padding: 7% 15%;
+}
+
+/*sections */
+.coloured-section {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+.invisible {
+  visibility: hidden;
+}
+.button {
+  color: blue;
+}
+.huge {
+  font-size: 10 rem;
+  color: blue;
+  font-weight: bold;
+}
